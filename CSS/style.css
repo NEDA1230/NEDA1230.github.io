@@ -219,4 +219,7 @@ img:hover{
         flex-direction: column;
         gap: 10px;
     }
+
+    *{ max-witdh: 100%
+     }
 }
