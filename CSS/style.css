@@ -210,7 +210,7 @@ img:hover{
 }
 
 
-@media(max-witdh: 600px){
+@media(max-witdh: 1000px){
     nav{
         flex-direction: column;
     }
